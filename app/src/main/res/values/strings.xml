@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyMovieRatingApp</string>
+    <string name="Movie_name">Movie Name</string>
+    <string name="Year">Year</string>
+    <string name="Duration">Duration</string>
+    <string name="Write_Review">Write Review</string>
+    <string name="Starring">Starring</string>
+    <string name="Director">Director</string>
+    <string name="Save">Save</string>
+    <string name="dname">Director Name</string>
+    <string name="Finish">Finish</string>
+    <string name="Name">Name</string>
+    <string name="TextView" />
+    <string name="Genre" />
+    <string name="yr" />
+    <string name="Review" />
+    <string name="dr" />
+    <string name="Starcast" />
+    <string name="Dur" />
+    <string name="year">Year</string>
+</resources>

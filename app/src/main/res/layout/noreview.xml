@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#d9e5eb"
+    android:gravity="top" android:weightSum="1">
+
+    <ListView android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </ListView>
+
+    <TextView android:id="@+id/textView1"
+        android:textColor="#3d4042"
+        android:text="No review available"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:gravity="center">
+    </TextView>
+    <TextView android:textColor="#3d4042"
+        android:id="@+id/textView2"
+        android:text="Select menu to add a review"
+        android:layout_height="wrap_content"
+        android:gravity="center|clip_vertical"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_weight="0.57">
+    </TextView>
+
+
+</LinearLayout>
